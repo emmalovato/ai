@@ -1,0 +1,24 @@
+        
+  g*****
+  ooooo*
+ o   ***
+  os**o 
+        
+        
+BFS: 12
+        
+  g*****
+  ooooo*
+ o *****
+  os  o 
+        
+        
+DFS: 12
+        
+ *g     
+**ooooo 
+*o      
+**os  o 
+ ***    
+        
+A*: 10

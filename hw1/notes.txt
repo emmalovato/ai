@@ -1,0 +1,19 @@
+NOTES
+ 
+
+
+
+DONE
+- figure out how to write to output files
+- Finish A* implementation
+	- figure out how to keep track of total path cost (or WAIT no actually it's greedy isn't it?)
+- do i need a reset function to set all the nodes in the graph to "unvisited" after each search function? (if -all)
+- figure out how to trace path
+- figure out why resetgraph isnt working
+- okaaay so i cant have a dictionary of paths because lists aren't hashable
+	- i switched to a dictionary of explored nodes that map to their g costs
+
+- debug
+	- they dont workkkkkkkkk
+- figure out correct way to extend queue?
+- can't a node have a different cost depending on which path it's in?

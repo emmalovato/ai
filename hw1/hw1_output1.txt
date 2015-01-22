@@ -1,0 +1,27 @@
+        
+**g     
+* ooooo 
+*o      
+* os  o 
+****    
+        
+BFS: 11
+
+     ***
+  g*** *
+  ooooo*
+ o     *
+  os  o*
+   *   *
+   *****
+DFS: 19
+
+        
+**g     
+* ooooo 
+*o      
+**os  o 
+ ***    
+        
+A*: 11
+
